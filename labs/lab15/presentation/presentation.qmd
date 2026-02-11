@@ -1,0 +1,10 @@
+---
+## Author
+author:
+  name: Майоров Дмитрий Андреевич
+
+## Title
+title: 
+
+---
+
